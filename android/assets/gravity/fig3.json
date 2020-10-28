@@ -1,0 +1,1 @@
+{"rigidBodies":[{"name":"Name","imagePath":"fig3.png","origin":{"x":60,"y":60},"polygons":[[{"x":53,"y":105},{"x":4,"y":12},{"x":21,"y":8},{"x":112,"y":8},{"x":109,"y":22},{"x":60,"y":117}]],"circles":[],"shapes":[{"type":"POLYGON","vertices":[{"x":60,"y":117},{"x":109,"y":22},{"x":112,"y":8},{"x":21,"y":8},{"x":4,"y":12},{"x":53,"y":105}]}]}],"dynamicObjects":[]}
